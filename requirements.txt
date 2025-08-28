@@ -1,0 +1,12 @@
+langchain
+langsmith
+langchain-openai
+python-dotenv
+langchain_community
+pypdf
+langchain-faiss
+faiss-cpu
+ddgs
+duckduckgo-search
+langgraph
+pydantic
